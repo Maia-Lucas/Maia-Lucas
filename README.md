@@ -15,7 +15,7 @@
   ## GitHub Stats
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maia-lucas&theme=transparent&hide_border=true&show_icons=true&count_private=true" alt="Lucas Maia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbtt&theme=transparent&hide_border=true&layout=compact" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maia-lucas&theme=transparent&hide_border=true&layout=compact" />
 </div>
   
   ## Minhas contribuições
