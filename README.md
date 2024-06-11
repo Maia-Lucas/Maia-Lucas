@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Maia+👋)](https://git.io/typing-svg)
 
-  Meu objetivo é desenvolver habilidades que me permitam combinar meus conhecimentos em programação com minha formação em engenharia elétrica. Acredito que a junção dessas áreas possa trazer soluções inovadoras e eficientes.
+  Meu objetivo é desenvolver habilidades que me permitam combinar meus conhecimentos em programação com minha formação em design gráfico. Acredito que a junção dessas áreas possa trazer soluções inovadoras e eficientes.
   
   ## Conecte-se comigo
   
