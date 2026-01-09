@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=header"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+SEU+NOME+AQUI+👋">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Maia+👋">
 </p>
 <h3 align="center">Meu objetivo é desenvolver habilidades que me permitam combinar meus conhecimentos em programação com minha formação em design gráfico. Acredito que a junção dessas áreas possa trazer soluções inovadoras e eficientes.</h3>
 
