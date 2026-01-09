@@ -20,9 +20,9 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maia-Lucas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Maia-Lucas&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maia-Lucas&theme=transparent&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maia-Lucas&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
