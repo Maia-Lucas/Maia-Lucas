@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lucas Maia</h1>
+<h1 align="center">Olá 👋, eu sou o Lucas Maia</h1>
 <h3 align="center">Meu objetivo é desenvolver habilidades que me permitam combinar meus conhecimentos em programação com minha formação em design gráfico. Acredito que a junção dessas áreas possa trazer soluções inovadoras e eficientes.</h3>
 
-- 💬 Ask me about **python, javascript and mysql**
+- 💬 Me pergunte sobre **python, javascript and mysql**
 
-- 📫 How to reach me **lucasemaia92@gmail.com**
+- 📫 Caso queira falar comigo **lucasemaia92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-maia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-maia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-maia-9039ba270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-maia" height="30" width="40" /></a>
 <a href="https://instagram.com/_maialucas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_maialucas_" height="30" width="40" /></a>
 </p>
 
