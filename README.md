@@ -58,9 +58,8 @@ Acredito que a junção dessas áreas possa trazer soluções inovadoras e efici
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maia-Lucas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maia-Lucas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=Maia-Lucas&layout=compact&theme=transparent&hide_border=true" />
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
